@@ -1,4 +1,6 @@
-# PhxJS = Phoenix JavaScript
+# PhxJS
+
+![Phoenix JavaScript](logo.svg)
 
 - Offline Events: https://www.meetup.com/Phoenix-JavaScript/
 - Twitter: https://twitter.com/@phxjavascript
